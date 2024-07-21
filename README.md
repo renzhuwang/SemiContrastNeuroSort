@@ -1,3 +1,4 @@
-#The project is under construction
+#The project is under construction.
+
 This study proposes a comparative learning framework for semi -supervision to achieve peak sorting of noise signal. Through the improvement of the network architecture and the introduction of data enhancement technology, comparing learning can extract more effective embedded representations in the feature space. By learning the time -frequency relationship of a large number of non -labeled timing signals, a small amount of label data is used for fine -tuning, and the classification performance is improved in a small amount of standard data training.
 Methods were verified on multiple high -density cells recorded data sets. As a result, the method of this study has a good peak sorting ability. Under the conditions of different noise levels and different label data ratios, compared to existing existing existing existing The latest methods have better performance.
